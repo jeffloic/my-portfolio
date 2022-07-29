@@ -39,7 +39,7 @@ export default function MobileNavbar() {
         <li className="list-none font-bold text-lg">
           <Link href="/">
             <img
-              className="mr-3"
+              className="mr-3 h-10"
               src="/static/logos/logo.svg"
               width="160"
             />
